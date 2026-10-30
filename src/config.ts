@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 /** Configuration and environment resolution. */
 
 export const DEFAULT_API_BASE_URL = "https://tools.pepkio.com";

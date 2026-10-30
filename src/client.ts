@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 /** HTTP client for the Pepkio well-plate-seeding-density-calculator tool. */
 
 import { Agent, type Dispatcher } from "undici";

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 /** Typed API request/response models (from manifest input/output schemas). */
 
 import { z } from "zod";
